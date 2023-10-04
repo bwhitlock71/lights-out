@@ -1,0 +1,15 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  border-radius: 25px;
+  background-color: darkgray;
+  cursor: pointer;
+}
+
+.Cell:hover {
+ background-color: goldenrod;
+}
+
+.Cell-lit {
+  background-color: white;
+}
